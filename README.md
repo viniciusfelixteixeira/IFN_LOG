@@ -6,4 +6,4 @@ https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content
 ## segunda atividade
 atividade do excel
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/c6d8ac9ec40401976c49390e5e05b85f3366cb7b/excel%20vinicius.xlsx
-![Uploading image.png…]()
+![Uploading image.png…]
