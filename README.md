@@ -5,4 +5,4 @@ https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content
 ![image](https://github.com/user-attachments/assets/cdef3131-3578-4ae5-8b05-9a02182a35ac)
 ## segunda atividade
 atividade do excel
-
+excel vinicius (1).xlsx
