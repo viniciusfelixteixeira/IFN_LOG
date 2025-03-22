@@ -5,4 +5,4 @@ https://www.canva.com/design/DAGfsda_pds/I_vLEvwjObxcAmmvRj8x0g/view?utm_content
 ![image](https://github.com/user-attachments/assets/cdef3131-3578-4ae5-8b05-9a02182a35ac)
 ## segunda atividade
 atividade do excel
-[excel vinicius (1).xlsx](https://github.com/viniciusfelixteixeira/IFN_LOG/blob/29b2657846a8a6b134f4529e3d4d104db9030fcc/excel%20vinicius%20(1).xlsx)
+(https://github.com/viniciusfelixteixeira/IFN_LOG/blob/29b2657846a8a6b134f4529e3d4d104db9030fcc/excel%20vinicius%20(1).xlsx)
