@@ -8,5 +8,6 @@ atividade do excel
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/c6d8ac9ec40401976c49390e5e05b85f3366cb7b/excel%20vinicius.xlsx
 ![image](https://github.com/user-attachments/assets/1df74c46-d323-403f-bbd3-66c07309b529)
 ## terceira atividade - power bi
+![image](https://github.com/user-attachments/assets/c9e8cb9b-cac2-438b-b34d-8553cfbbf19b)
 
 
