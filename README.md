@@ -9,5 +9,6 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/c6d8ac9ec40401976c49390e5e
 ![image](https://github.com/user-attachments/assets/1df74c46-d323-403f-bbd3-66c07309b529)
 ## terceira atividade - power bi
 ![image](https://github.com/user-attachments/assets/c9e8cb9b-cac2-438b-b34d-8553cfbbf19b)
+![image](https://github.com/user-attachments/assets/eb061980-474c-48c8-b5b7-a2ef6fcd1416)
 
 
