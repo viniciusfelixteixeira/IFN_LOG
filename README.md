@@ -11,4 +11,5 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/c6d8ac9ec40401976c49390e5e
 ![image](https://github.com/user-attachments/assets/c9e8cb9b-cac2-438b-b34d-8553cfbbf19b)
 ## Quarta Atividade - Power BI
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/6b7c131583815c11c10ca212fff3cba85870fcad/powerbivinicius.pbix
+![image](https://github.com/user-attachments/assets/42807a8c-665f-4f1f-b892-1ad7a35783fd)
 
