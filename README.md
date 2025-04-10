@@ -20,6 +20,9 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/6b7c131583815c11c10ca212ff
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/6b66910bfa6fe9b6b190dde241f37cb6445fa235/Atividade%20Excel%20Inf..xlsx
 ![image](https://github.com/user-attachments/assets/18cbf48f-ac2a-4cc5-a4e2-461381e63297)
 
+https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294dda25fb06448e5/trabalho%20gui%20e%20vini.pbix
+![image](https://github.com/user-attachments/assets/ff5197eb-8be7-4614-a5d8-55cbdde5d849)
+
 
 
 
