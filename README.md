@@ -29,6 +29,7 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294
 [https://github.com/viniciusfelixteixeira/IFN_LOG/blob/2f5e6284818be503b293657a96ac45a4e5ca12ac/Atividade%20Excel%20Inf..xlsx](https://github.com/viniciusfelixteixeira/IFN_LOG/blob/a0ae462f3ecb7df4bb416603cdb81a1b3e4bbabf/Consumo_cerveja.csv%20vini.xlsx)
 ![image](https://github.com/user-attachments/assets/996c0ea2-8e12-41e0-ba13-18ee26a575e2)
 
+https://github.com/viniciusfelixteixeira/IFN_LOG/blob/a01e02f8ae2a4be7ed301ee2697b48559e2b2e19/consumodecervejaavinii.ipynb
 
 
 
