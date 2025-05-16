@@ -25,6 +25,8 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/6b66910bfa6fe9b6b190dde241
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294dda25fb06448e5/trabalho%20gui%20e%20vini.pbix
 ![image](https://github.com/user-attachments/assets/ff5197eb-8be7-4614-a5d8-55cbdde5d849)
 
+## Trabalho Excel e Google Colab
+
 
 
 
