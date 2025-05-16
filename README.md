@@ -32,6 +32,12 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/a01e02f8ae2a4be7ed301ee2697b48559e2b2e19/consumodecervejaavinii.ipynb
 ![image](https://github.com/user-attachments/assets/1d1497e5-dfa1-4de9-bd20-724b277ce9f3)
 
+https://github.com/viniciusfelixteixeira/IFN_LOG/blob/779409004515b2a8643bfdc2c0ecd0e7d81bab13/Ice%20Creamvini1.csv
+![image](https://github.com/user-attachments/assets/818f217d-00bd-43f3-85ea-4aa254d1554f)
+![image](https://github.com/user-attachments/assets/f2dc041f-ef1e-4af3-bcd9-f1ae0d911efb)
+
+
+
 
 
 
