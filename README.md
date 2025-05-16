@@ -30,6 +30,7 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294
 ![image](https://github.com/user-attachments/assets/996c0ea2-8e12-41e0-ba13-18ee26a575e2)
 
 https://github.com/viniciusfelixteixeira/IFN_LOG/blob/a01e02f8ae2a4be7ed301ee2697b48559e2b2e19/consumodecervejaavinii.ipynb
+![image](https://github.com/user-attachments/assets/1d1497e5-dfa1-4de9-bd20-724b277ce9f3)
 
 
 
