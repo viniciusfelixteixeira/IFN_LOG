@@ -26,7 +26,8 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/81586c77f3431724dafd6bb294
 ![image](https://github.com/user-attachments/assets/ff5197eb-8be7-4614-a5d8-55cbdde5d849)
 
 ## Trabalho Excel e Google Colab
-https://github.com/viniciusfelixteixeira/IFN_LOG/blob/2f5e6284818be503b293657a96ac45a4e5ca12ac/Atividade%20Excel%20Inf..xlsx
+[https://github.com/viniciusfelixteixeira/IFN_LOG/blob/2f5e6284818be503b293657a96ac45a4e5ca12ac/Atividade%20Excel%20Inf..xlsx](https://github.com/viniciusfelixteixeira/IFN_LOG/blob/a0ae462f3ecb7df4bb416603cdb81a1b3e4bbabf/Consumo_cerveja.csv%20vini.xlsx)
+
 
 
 
