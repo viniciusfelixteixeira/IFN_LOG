@@ -36,6 +36,13 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/779409004515b2a8643bfdc2c0
 ![image](https://github.com/user-attachments/assets/818f217d-00bd-43f3-85ea-4aa254d1554f)
 ![image](https://github.com/user-attachments/assets/f2dc041f-ef1e-4af3-bcd9-f1ae0d911efb)
 
+ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/23bdd4f97f3d10ec7899882ac4fe0a0cc68a2dc6/vendadecasas.ipynb 
+ ![image](https://github.com/user-attachments/assets/637f77a4-b432-44a6-89b9-e8ce89306807)
+ 
+ ![image](https://github.com/user-attachments/assets/1a84e2bc-c7c6-4a02-821f-1c61d1a8716a)
+
+
+
 
 
 
