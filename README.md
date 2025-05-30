@@ -43,6 +43,16 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/779409004515b2a8643bfdc2c0
  
  ![image](https://github.com/user-attachments/assets/6c05c00b-95cc-49e2-b091-cd8f8f02884c)
 
+ ## Atividade Excel / CUSTO / RECEITA / LUCRO
+ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/cdc342bee36a88ad78611ed7c7a2828123e489de/Graf_K_panela_sorvetes_produtosvinicius.xlsx
+ ![image](https://github.com/user-attachments/assets/ca8af0bc-ff05-402b-ae32-932a4af0162e)
+![image](https://github.com/user-attachments/assets/56924351-a4fb-42c0-9bb2-1084fbc7855c)
+![image](https://github.com/user-attachments/assets/96fce4e2-405d-4e63-81af-45dc61de6035)
+
+
+
+
+
 
 
 
