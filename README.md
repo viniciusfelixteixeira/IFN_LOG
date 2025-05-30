@@ -49,6 +49,12 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/779409004515b2a8643bfdc2c0
 ![image](https://github.com/user-attachments/assets/56924351-a4fb-42c0-9bb2-1084fbc7855c)
 ![image](https://github.com/user-attachments/assets/96fce4e2-405d-4e63-81af-45dc61de6035)
 
+https://github.com/viniciusfelixteixeira/IFN_LOG/blob/17127a440f1929164254a93d0bd69183bda4f816/sandaliasvinicius.xlsx
+![image](https://github.com/user-attachments/assets/53c6512c-4f81-40f1-95c1-5c186bbce5ad)
+![image](https://github.com/user-attachments/assets/ab04538f-4fbe-4cd9-8170-8bce94c3bf6b)
+
+
+
 
 
 
