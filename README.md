@@ -53,6 +53,14 @@ https://github.com/viniciusfelixteixeira/IFN_LOG/blob/17127a440f1929164254a93d0b
 ![image](https://github.com/user-attachments/assets/53c6512c-4f81-40f1-95c1-5c186bbce5ad)
 ![image](https://github.com/user-attachments/assets/ab04538f-4fbe-4cd9-8170-8bce94c3bf6b)
 
+## Atividade POWER APPS E POWER AUTOMATE
+![image](https://github.com/user-attachments/assets/27c75f11-c21c-4bfb-acb4-15e2b3e44e6e)
+
+![image](https://github.com/user-attachments/assets/bc54abdb-ac0b-4daa-abed-e5a55250672d)
+
+https://github.com/user-attachments/assets/e4c5c8c7-c20d-4c00-9e71-fa9f27e58ae3
+
+
 
 
 
