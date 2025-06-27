@@ -79,9 +79,9 @@ https://github.com/user-attachments/assets/e4c5c8c7-c20d-4c00-9e71-fa9f27e58ae3
 
 
 
-|Prova POWER BI dashboard produçaõ março de 2025 
----------------------------------------------------| 
-
+| Prova POWER BI dashboard Producao março 2025 
+------------------------------------------------|
+https://github.com/viniciusfelixteixeira/IFN_LOG/blob/6c68c84ae66f490ef8ab206e0f24105195d8b5d7/powerbiproducao.pbix
 ![image](https://github.com/user-attachments/assets/bb75b738-c60b-4e12-9441-7299fbc72b03)
 
 
